@@ -13,7 +13,7 @@
     <!-- project css file  -->
     
     <!--<link rel="stylesheet" href="assets/css/luno.style.min.css">-->
-    <link rel="stylesheet" href="{{ asset('assets/css/luno.style.min.css')}}">
+    <link rel="stylesheet" href="{{ asset('/css/luno.style.min.css')}}">
     
 </head>
 
